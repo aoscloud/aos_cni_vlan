@@ -1,6 +1,6 @@
-module aos-vlan
+module github.com/aoscloud/aos_cni_vlan
 
-go 1.19
+go 1.18
 
 require (
 	github.com/containernetworking/cni v1.1.2
